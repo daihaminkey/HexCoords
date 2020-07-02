@@ -37,7 +37,7 @@ using NUnit.Framework;
          public void OffsetToCubeTest(int x, int y, int expectedX, int expectedY, int expectedZ)
          {
              var offset = new OffsetCoord(x, y);
-             var cube = ConvertCoord.ToCube(offset);
+             var cube = offset.ToCube();
 
              Assert.AreEqual(expectedX, cube.X);
              Assert.AreEqual(expectedY, cube.Y);
