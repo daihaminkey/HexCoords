@@ -11,7 +11,7 @@ Task list:
 - [x] Three coord systems
 - [x] Conversion between systems
 - [x] Cross-system equality-check
-- [ ] TileMap container implementations
+- [x] TileMap container implementations
 - [ ] Geometry-based tile picking
 - [ ] Basic pathfinding
 

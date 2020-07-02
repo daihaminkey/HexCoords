@@ -39,11 +39,11 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Src\AxialCoord.cs" />
-        <Compile Include="Src\ConvertCoord.cs" />
-        <Compile Include="Src\CubeCoord.cs" />
-        <Compile Include="Src\HexagonCoord.cs" />
-        <Compile Include="Src\OffsetCoord.cs" />
+        <Compile Include="Src\Coords\AxialCoord.cs" />
+        <Compile Include="Src\Coords\CubeCoord.cs" />
+        <Compile Include="Src\Coords\HexagonCoord.cs" />
+        <Compile Include="Src\Coords\OffsetCoord.cs" />
+        <Compile Include="Src\HexTileMap.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
