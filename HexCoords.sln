@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexCoords", "HexCoords\HexCoords.csproj", "{33C451A2-86FE-40A3-9FDE-FF6A0F0415D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5968AD58-7AA1-4A38-A77D-D557589FDBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C451A2-86FE-40A3-9FDE-FF6A0F0415D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C451A2-86FE-40A3-9FDE-FF6A0F0415D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C451A2-86FE-40A3-9FDE-FF6A0F0415D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C451A2-86FE-40A3-9FDE-FF6A0F0415D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C451A2-86FE-40A3-9FDE-FF6A0F0415D3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5968AD58-7AA1-4A38-A77D-D557589FDBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5968AD58-7AA1-4A38-A77D-D557589FDBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5968AD58-7AA1-4A38-A77D-D557589FDBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5968AD58-7AA1-4A38-A77D-D557589FDBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
